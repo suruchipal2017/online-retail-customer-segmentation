@@ -11,7 +11,7 @@ st.set_page_config(
 
 # Load Models
 cluster_model = joblib.load("customer_segmentation_model.joblib")
-recommendation_dict = joblib.load("recommendation_system_small.joblib")
+recommendation_dict = joblib.load("recommendation_system_full_max.joblib")
 
 # Recommendation Function
 def recommend_products(product_name, top_n=5):

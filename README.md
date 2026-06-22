@@ -92,7 +92,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 Streamlit App:
-https://online-retail-customer-segmentation-8es7a6aaemtzmvio64f24j.streamlit.app/
+online-retail-customer-segmentation-h9u4aosymupwxsdrmzhmnb.streamlitapp
 
 GitHub Repository:
 online-retail-customer-segmentation
